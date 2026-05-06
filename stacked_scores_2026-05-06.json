@@ -1,0 +1,25 @@
+{
+  "date": "2026-05-06",
+  "last_updated": "2026-05-06T11:18:00-04:00",
+  "players": [
+    {
+      "player_id": 665742,
+      "player_name": "Juan Soto",
+      "team": "New York Yankees",
+      "team_abbrev": "NYY",
+      "team_id": 147,
+      "game_pk": 716000,
+      "batting_order": 2,
+      "last_5": [0,1,0,2,1],
+      "log_updated": "2026-05-05",
+      "odds": {
+        "fanduel": 130,
+        "draftkings": 120,
+        "bet365": 105,
+        "best_book": "fanduel",
+        "best_odds": 130
+      },
+      "stacked_score": 82
+    }
+  ]
+}
